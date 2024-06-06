@@ -4,6 +4,10 @@ Charles Cantin, une personne de votre entourage, est passionné par la photograp
 Même s’il pratique en amateur, son talent est reconnu et beaucoup font appel à lui pour immortaliser 
 leurs événements.
 
+```
+https://6661f7c8575e1a391cce4a36--cantin.netlify.app/
+```
+
 ## Déploiement en local
 
 ### 1\. Clone le dépot Git
@@ -31,14 +35,8 @@ Pour utiliser le processeur d'image Sharp avec <picture> ou <img> ou CSS backgro
 
 `npm install --save-dev @11ty/eleventy-img`
 
-### 5\. Configurer le back-end en local
+### 5\. Lancer le projet en local
 
-Dans le répertoire src/admin du projet, dans le fichier config.yaml :
+`npm start`
 
-Passer la valeur à : `true`
-
-// Please run "npx netlify-cms-proxy-server" for local backend
-
-`local_backend: true`
-
-### 6\. Lancer le back-end en local
+ `http://localhost:8080/`
