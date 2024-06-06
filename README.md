@@ -31,14 +31,8 @@ Pour utiliser le processeur d'image Sharp avec <picture> ou <img> ou CSS backgro
 
 `npm install --save-dev @11ty/eleventy-img`
 
-### 5\. Configurer le back-end en local
+### 5\. Lancer le projet en local
 
-Dans le répertoire src/admin du projet, dans le fichier config.yaml :
+`npm start`
 
-Passer la valeur à : `true`
-
-// Please run "npx netlify-cms-proxy-server" for local backend
-
-`local_backend: true`
-
-### 6\. Lancer le back-end en local
+ `http://localhost:8080/`
