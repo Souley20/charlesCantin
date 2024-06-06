@@ -4,7 +4,9 @@ Charles Cantin, une personne de votre entourage, est passionné par la photograp
 Même s’il pratique en amateur, son talent est reconnu et beaucoup font appel à lui pour immortaliser 
 leurs événements.
 
-`https://6661f7c8575e1a391cce4a36--cantin.netlify.app/`
+```
+https://6661f7c8575e1a391cce4a36--cantin.netlify.app/
+```
 
 ## Déploiement en local
 
